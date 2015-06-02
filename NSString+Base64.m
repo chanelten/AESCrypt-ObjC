@@ -6,6 +6,7 @@
 //  Copyright (c) 2012 Gurpartap Singh. All rights reserved.
 //
 
+#import <Foundation/NSData.h>
 #import "NSString+Base64.h"
 
 static char base64EncodingTable[64] = {
