@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "664D3C511B1D9A6D007FC5B7"
-               BuildableName = "libAESCrypt.a"
+               BlueprintIdentifier = "664D3CB01B1DA25B007FC5B7"
+               BuildableName = "AESCrypt.framework"
                BlueprintName = "AESCrypt"
                ReferencedContainer = "container:AESCrypt.xcodeproj">
             </BuildableReference>
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "664D3C5C1B1D9A6D007FC5B7"
+               BlueprintIdentifier = "664D3CBB1B1DA25B007FC5B7"
                BuildableName = "AESCryptTests.xctest"
                BlueprintName = "AESCryptTests"
                ReferencedContainer = "container:AESCrypt.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "664D3C5C1B1D9A6D007FC5B7"
+               BlueprintIdentifier = "664D3CBB1B1DA25B007FC5B7"
                BuildableName = "AESCryptTests.xctest"
                BlueprintName = "AESCryptTests"
                ReferencedContainer = "container:AESCrypt.xcodeproj">
@@ -56,8 +56,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "664D3C511B1D9A6D007FC5B7"
-            BuildableName = "libAESCrypt.a"
+            BlueprintIdentifier = "664D3CB01B1DA25B007FC5B7"
+            BuildableName = "AESCrypt.framework"
             BlueprintName = "AESCrypt"
             ReferencedContainer = "container:AESCrypt.xcodeproj">
          </BuildableReference>
@@ -75,8 +75,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "664D3C511B1D9A6D007FC5B7"
-            BuildableName = "libAESCrypt.a"
+            BlueprintIdentifier = "664D3CB01B1DA25B007FC5B7"
+            BuildableName = "AESCrypt.framework"
             BlueprintName = "AESCrypt"
             ReferencedContainer = "container:AESCrypt.xcodeproj">
          </BuildableReference>
@@ -93,8 +93,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "664D3C511B1D9A6D007FC5B7"
-            BuildableName = "libAESCrypt.a"
+            BlueprintIdentifier = "664D3CB01B1DA25B007FC5B7"
+            BuildableName = "AESCrypt.framework"
             BlueprintName = "AESCrypt"
             ReferencedContainer = "container:AESCrypt.xcodeproj">
          </BuildableReference>
