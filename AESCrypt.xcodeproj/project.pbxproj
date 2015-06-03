@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		664D3CBD1B1DA25B007FC5B7 /* AESCrypt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 664D3CB11B1DA25B007FC5B7 /* AESCrypt.framework */; };
-		664D3CD61B1DA4E0007FC5B7 /* AESCrypt-Main.h in Headers */ = {isa = PBXBuildFile; fileRef = 664D3CCD1B1DA4E0007FC5B7 /* AESCrypt-Main.h */; };
 		664D3CD71B1DA4E0007FC5B7 /* AESCrypt.h in Headers */ = {isa = PBXBuildFile; fileRef = 664D3CCE1B1DA4E0007FC5B7 /* AESCrypt.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		664D3CD81B1DA4E0007FC5B7 /* AESCrypt.m in Sources */ = {isa = PBXBuildFile; fileRef = 664D3CCF1B1DA4E0007FC5B7 /* AESCrypt.m */; };
 		664D3CD91B1DA4E0007FC5B7 /* NSData+Base64.h in Headers */ = {isa = PBXBuildFile; fileRef = 664D3CD01B1DA4E0007FC5B7 /* NSData+Base64.h */; };
@@ -35,7 +34,6 @@
 /* Begin PBXFileReference section */
 		664D3CB11B1DA25B007FC5B7 /* AESCrypt.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AESCrypt.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		664D3CBC1B1DA25B007FC5B7 /* AESCryptTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AESCryptTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		664D3CCD1B1DA4E0007FC5B7 /* AESCrypt-Main.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AESCrypt-Main.h"; sourceTree = "<group>"; };
 		664D3CCE1B1DA4E0007FC5B7 /* AESCrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AESCrypt.h; sourceTree = "<group>"; };
 		664D3CCF1B1DA4E0007FC5B7 /* AESCrypt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AESCrypt.m; sourceTree = "<group>"; };
 		664D3CD01B1DA4E0007FC5B7 /* NSData+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+Base64.h"; sourceTree = "<group>"; };
@@ -89,7 +87,6 @@
 		664D3CB31B1DA25B007FC5B7 /* AESCrypt */ = {
 			isa = PBXGroup;
 			children = (
-				664D3CCD1B1DA4E0007FC5B7 /* AESCrypt-Main.h */,
 				664D3CCE1B1DA4E0007FC5B7 /* AESCrypt.h */,
 				664D3CCF1B1DA4E0007FC5B7 /* AESCrypt.m */,
 				664D3CD01B1DA4E0007FC5B7 /* NSData+Base64.h */,
@@ -136,7 +133,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				664D3CD71B1DA4E0007FC5B7 /* AESCrypt.h in Headers */,
-				664D3CD61B1DA4E0007FC5B7 /* AESCrypt-Main.h in Headers */,
 				664D3CD91B1DA4E0007FC5B7 /* NSData+Base64.h in Headers */,
 				664D3CDB1B1DA4E0007FC5B7 /* NSData+CommonCrypto.h in Headers */,
 				664D3CDD1B1DA4E0007FC5B7 /* NSString+Base64.h in Headers */,
