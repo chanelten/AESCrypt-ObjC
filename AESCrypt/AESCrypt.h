@@ -29,6 +29,12 @@
 
 #import <Foundation/Foundation.h>
 
+//! Project version number for AESCrypt.
+FOUNDATION_EXPORT double AESCryptVersionNumber;
+
+//! Project version string for AESCrypt.
+FOUNDATION_EXPORT const unsigned char AESCryptVersionString[];
+
 @interface AESCrypt : NSObject
 
 + (NSString *)encrypt:(NSString *)message password:(NSString *)password;
